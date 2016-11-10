@@ -11,12 +11,12 @@
 
 **Raven**
 
- - Return to Applets & Notifications only
+ - Return to Widgets & Notifications only
  - Move Settings out completely
  - Resizable
  - Switch to drawer mode - i.e. overlap panels
  - Moving to out-of-process
- - Should support applets like:
+ - Should support Widgets like:
     - RSS
     - Weather
 
@@ -38,9 +38,9 @@
  - Arc Styling will move back into the arc-gtk-theme repo
  - 11 Styling to be different ?
 
-**Applet shift**
+**Widget Changes**
 
- - Sound Applet to merge into Panel Applet, and converted into optional Sound Applet
+ - Sound Widget to merge into Panel Widget, and converted into optional Raven Widget
 
 **Notifications:**
 
