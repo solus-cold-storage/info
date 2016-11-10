@@ -35,3 +35,8 @@
  - "budgie-settings"
  - Replace GCC completely, even with the system control components
  - Use Windowed Mode for 11
+
+**Terminology:**
+
+ - Raven Applets to be known as "Raven Widgets"
+ - Budgie Panel Applets = "Panel Widgets"
