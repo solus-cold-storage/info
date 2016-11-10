@@ -14,6 +14,16 @@
  - All components being split up for Budgie 11
  - Raven = standalone, Panel = standalone, etc.
 
+**Plugins**
+
+ - All Widgets provided by Factory plugins.
+ - Raven and Panel will use separate, versioned trees:
+   - `$(libdir)/budgie-panel/11.0/plugins`
+   - `$(libdir)/raven/11.0/plugins`
+ - Individual plugins to be namespaced within each root:
+   - `$(libdir)/budgie-panel/11.0/plugins/budgie-menu/*.so`
+   - `$(libdir)/budgie-panel/11.0/plugins/budgie-menu/*.plugin`
+
 **Raven**
 
  - Return to Widgets & Notifications only
