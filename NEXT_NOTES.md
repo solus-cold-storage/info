@@ -42,6 +42,7 @@
 
  - Arc Styling will move back into the arc-gtk-theme repo
  - 11 Styling to be different ?
+ - Add a new "budgie-widget-factory" to `budgie-core` that can be run from git to facilitate simpler theme development.
 
 **Widget Changes**
 
