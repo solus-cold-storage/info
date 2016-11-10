@@ -27,7 +27,7 @@
 
 **Applet shift**
 
- - Sound Applet to merge into Panel Applet, and removed from Raven
+ - Sound Applet to merge into Panel Applet, and converted into optional Sound Applet
 
 **Settings**:
 
