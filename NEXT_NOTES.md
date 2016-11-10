@@ -12,8 +12,8 @@
  - Switch to drawer mode - i.e. overlap panels
  - Moving to out-of-process
  - Should support applets like:
-        - RSS
-        -
+    - RSS
+    - Weather
 
 **Theming**
 
@@ -27,4 +27,4 @@
 **Settings**:
 
  - Removed from Raven, need a new method in which to control these
- - Budgie Control Center? 
+ - Budgie Control Center?
