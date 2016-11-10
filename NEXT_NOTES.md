@@ -4,6 +4,11 @@
  - Richer UI
  - Animations
 
+**Accessibility**
+
+ - Budgie 11 needs to be completely accessible.
+ - Current popovers break a11y, ensure all components are reusable and ATK registered
+
 **Modular architecture**
 
  - All components being split up for Budgie 11
