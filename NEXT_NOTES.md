@@ -42,6 +42,15 @@
 
  - Sound Applet to merge into Panel Applet, and converted into optional Sound Applet
 
+**Notifications:**
+
+ - Richer notifications (Actionable)
+ - Don't die with Rhythmbox. kthxbai.
+ - Group the notifications by application
+ - Raven needs a "Quiet Mode" (do not disturb)
+ - Groups have a "last time", sort by this.
+ - Dismiss on group basis too.
+
 **Settings**:
 
  - Removed from Raven, need a new method in which to control these
