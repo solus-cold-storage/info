@@ -20,6 +20,19 @@
     - RSS
     - Weather
 
+**Panel**:
+
+ - Multi-monitor
+ - Panel per monitor
+ - Drag reordering of widgets, with highlighting + animations.
+ - Method to lockdown a panel.
+ - Panels permitted on *any* edge.
+ - Ensure panel never blocks window dragging between vertically arranged monitors.
+ - Autohide abilities ("intellihide")
+ - Variable width panels
+ - Dock style mode for custom CSS class. Allow custom styling (or background occlusion) for dock mode Budgie panel.
+ - Learn about newly installed Widgets dynamically
+
 **Theming**
 
  - Arc Styling will move back into the arc-gtk-theme repo
