@@ -11,7 +11,7 @@ The first new Budgie Release under the new organisation, modular structure, and 
 Epoch
 ------
 
-As each subsequent release is defined by series, with the potential for major changes between each series, the ``$MAJOR` field (i.e. `11.0`) is considered the epoch.
+As each subsequent release is defined by series, with the potential for major changes between each series, the `$MAJOR` field (i.e. `11.0`) is considered the epoch.
 
 This may be bumped when base ABI has completely altered, or a refactor is involved, or it is deemed necessary to introduce new incompatabilities. At other times it may also be bumped due to new major features, such as compositor replacement, or architectural shifts.
 
